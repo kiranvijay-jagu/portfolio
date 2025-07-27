@@ -165,6 +165,14 @@ max-width: 50%;
   border-radius: 5px;
   text-decoration: none;
 }
+.project-content img {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
 .project-content .text p a:hover{
   
   background-color: black;
